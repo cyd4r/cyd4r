@@ -16,4 +16,4 @@ I’m DevOps engineer this is my personal Github.
   
   - Scripting (bash, python)
 
-- 🌱 I’m currently learning :
+
