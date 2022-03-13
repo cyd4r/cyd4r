@@ -3,7 +3,9 @@
 I’m DevOps engineer this is my personal Github.
 
 - 🔭 I’m currently working with:
-
+  
+  - GCP 
+  
   - AWS (Lambda, Api EC2, )
   
   - k8s
