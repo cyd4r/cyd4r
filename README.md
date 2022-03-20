@@ -1,15 +1,14 @@
 ## About me:
- :octocat:
 
 I’m DevOps engineer this is my personal Github.
 
-- 🔭 I’m currently working with:
+- I’m currently working with: :octocat:
   
   - GCP 
   
   - AWS (Lambda, Api EC2, )
   
-  - k8s
+  - Kubernetes
   
   - Terraform
   
@@ -19,6 +18,7 @@ I’m DevOps engineer this is my personal Github.
   
   - Scripting (bash, python)
   
+
 ## About my github account
 
 <img 
